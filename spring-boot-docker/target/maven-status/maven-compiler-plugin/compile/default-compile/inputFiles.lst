@@ -1,0 +1,6 @@
+/Users/casandratorres/Desktop/spring-boot-docker/src/main/java/com/example/spring_boot_docker/FetchReceiptProcessor.java
+/Users/casandratorres/Desktop/spring-boot-docker/src/main/java/com/example/spring_boot_docker/controller/ReceiptController.java
+/Users/casandratorres/Desktop/spring-boot-docker/src/main/java/com/example/spring_boot_docker/entity/ItemEntity.java
+/Users/casandratorres/Desktop/spring-boot-docker/src/main/java/com/example/spring_boot_docker/entity/ReceiptEntity.java
+/Users/casandratorres/Desktop/spring-boot-docker/src/main/java/com/example/spring_boot_docker/service/PointService.java
+/Users/casandratorres/Desktop/spring-boot-docker/src/main/java/com/example/spring_boot_docker/service/ReceiptService.java

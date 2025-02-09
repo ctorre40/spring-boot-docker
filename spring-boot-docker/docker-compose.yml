@@ -1,0 +1,14 @@
+version: "3.8"
+services:
+  web:
+    build: .
+    container_name: fetch-container-1.0
+    command: npm start
+    ports:
+     - "8080:8080"
+    develop:
+      watch:
+        - action: sync+restart # Action to perform on change
+          path: ./src/main/java/com/example/spring_boot_docker # Path to watch for changes
+          target: /FetchReceiptProcessor.java
+

@@ -1,0 +1,6 @@
+com/example/spring_boot_docker/entity/ItemEntity.class
+com/example/spring_boot_docker/service/ReceiptService.class
+com/example/spring_boot_docker/FetchReceiptProcessor.class
+com/example/spring_boot_docker/service/PointService.class
+com/example/spring_boot_docker/entity/ReceiptEntity.class
+com/example/spring_boot_docker/controller/ReceiptController.class
